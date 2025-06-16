@@ -204,3 +204,9 @@ https://github.com/user-attachments/assets/78119c2b-079d-4734-ac1e-7a3099b598fc
 - Integração com um sistema web ou aplicativo de gestão de estoque.
 
 ---
+## Participantes do projeto
+- Otavio Lucas
+- Diego Duarte
+- Rafaella Guimaraes
+- Mateus Soares
+- Pedro Lucas
