@@ -201,9 +201,18 @@ https://github.com/user-attachments/assets/78119c2b-079d-4734-ac1e-7a3099b598fc
 
 - Implementação de **Triggers** para atualização automática de estoque.
 - Criação de **Views** para facilitar consultas.
-- Integração com um sistema web ou aplicativo de gestão de estoque.
+- Integração com um sistema web ou aplicativo.
+
+
+
+
+| Interface inicial | Interface funcional |
+|----------|----------|
+| ![Image](https://github.com/user-attachments/assets/30986a14-bccd-4358-8ce4-564b81e451c5) | ![Image](https://github.com/user-attachments/assets/4ab8b2a6-e6a2-46ad-811a-cd228f1b16f0) |
+
 
 ---
+
 ## Participantes do projeto
 - Otavio Lucas
 - Diego Duarte
