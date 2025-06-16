@@ -8,8 +8,8 @@ public class CriareBD {
 
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/";
-        String usuario = "diego";
-        String senha = "diego2004";
+        String usuario = "seu usuario";
+        String senha = "sua senha";
 
         try {
             // Conectar ao MySQL (sem especificar banco)

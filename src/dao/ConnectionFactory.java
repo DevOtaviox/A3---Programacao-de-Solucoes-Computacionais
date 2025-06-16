@@ -8,8 +8,8 @@ public class ConnectionFactory {
     public static Connection getConnection() {
         try {
             return DriverManager.getConnection(
-                    "jdbc:mysql://localhost:3306/controle_estoque",
-                    "diego", "diego2004"
+                    "jdbc:mysql://localhost:3306/sistema_estoque",
+                    "seu usuario", "sua senha"
             );
         } catch (SQLException e) {
             throw new RuntimeException("Erro na conexão com o banco.", e);
