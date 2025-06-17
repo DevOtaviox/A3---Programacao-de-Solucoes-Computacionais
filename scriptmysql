@@ -1,3 +1,5 @@
+-- AVISO: Executar a funcao da linha 53, para que o codigo funcione perfeitamente
+
 CREATE DATABASE IF NOT EXISTS sistema_estoque;
 USE sistema_estoque;
 
